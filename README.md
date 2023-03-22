@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## For Solidity Code Follow :
+
+This mini tutorial is about how to set up a development environment for Contract using Remix IDE. 
+
+## Initialize a development project in Remix IDE 
+
+1. Open [Remix IDE](https://remix.ethereum.org/) in Web Browser
+
+2. Add a workspace and name is "Contract"
+
+3. Click on Remix IDE Home
+
+4. Choose Load From GitHub (at the bottom of Remix IDE Home) [!VERIFY if gitHub account is required]
+
+5. In the load box give the NTF Tutorial contract URL
+
+`https://gist.githubusercontent.com/developerkunal/f8c3ec4a5dfabc4ce1bbe3a3198b8fbf/raw/7a889de688ebaa1b373894bcb360bd226a704a27/LAZYNFT.sol`
+
+
